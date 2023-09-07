@@ -1,7 +1,7 @@
 # Chest Xray Dataset
 
-### In this repo i create three notebooks:
-- first one i try to proccess the images and build archituctures for CNN model
-- second one i try to proccess the images and use some pretrained models
-- and the last one i try to proccess the images and do data agumantation then use pretrained models
+### In this repo I created three notebooks:
+- First I try to process the images and build architectures for the CNN model
+- second one I try to process the images and use some pre-trained models
+- and the last one I try to process the images and do data augmentation then use pre-trained models
 
